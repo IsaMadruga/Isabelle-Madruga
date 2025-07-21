@@ -5,7 +5,6 @@
 - 👩‍🏫 Sou estudante de Bacharelado em Ciência da Computação
 
 
-
   
 <div align="center">
   <a href="https://github.com/IsaMadruga">
@@ -35,9 +34,7 @@
   <a href="https://www.linkedin.com/in/isabelle-madruga-6904ba186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:IsaMadruga.isabellemadruga@gmail.com"><img src="https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
-
-  
-  ![Snake animation](https://github.com/joaogabm/joaogabm/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
  
